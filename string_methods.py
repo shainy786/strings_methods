@@ -106,3 +106,55 @@
 # print(a,type(a))                #str type so o/p as h*a*i
 # b='*'.join(a)
 # print(b)
+
+
+# a="shainaz"
+# print(a.isalnum())
+# print(a.isalpha())
+# b="786"
+# print(b.isalnum())
+# print(b.isalpha())
+# c="shainy786"
+# print(c.isalnum())
+# print(c.isalpha())
+# d=" shn"
+# print(d.isalnum())
+# print(d.isalpha())
+# e="@vizag"
+# print(e.isalnum())
+# print(e.isalpha())
+
+# a=bin(15)
+# print(a,type(a))
+# print(0b1111)
+# print(0B1111)
+
+# print(0b110)
+# print(0b1101)
+# print(0b1110)
+
+# a=oct(15)
+# print(a,type(a))
+# print(0o17 )
+# print(0O17 )
+
+# print(0o110)
+# print(0O1101)
+# print(0o1110)
+
+# a=hex(15)
+# print(a,type(a))
+# print(0xf )
+# print(0xf)
+
+# print(0xa)
+# print(0XB)
+# print(0xc)
+# print(0xd)
+# print(0Xe)
+# print(0xf)
+
+# print(0x111)
+# print(0x110)
+# print(0X1101)
+# print(0x1110)
